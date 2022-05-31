@@ -1,0 +1,103 @@
+
+#quotes{
+    text-align: center;
+    
+    /* padding: 10px; */
+    font-weight: 100;
+    /* height: 50px; */
+    font-family: cursive;
+    margin: 40px;
+    height: 150px;
+    padding-top: 20px;
+
+}
+
+#quotes:hover{
+    border-style: double;
+    border-color: black;
+    
+    background-color: rgb(141, 198, 9);
+}
+#author{
+    
+    display: grid;
+    text-align: center;
+    height: 1.5em;
+    /* border: 2px solid greenyellow; */
+    text-align: center;
+    
+    padding-left: 340px;
+margin-top: -125px;
+    /* margin-top: 5px; */
+}
+#doublequotes{
+   
+}
+
+
+#qotd{
+    border: 3px solid black;
+    font-size:30px;
+}
+
+
+
+
+#newquote{
+    cursor: pointer;
+   /* margin-top: 75px;*/
+    margin-bottom: 1px;
+    display: flex;
+    margin-left: 600px;
+}
+
+
+#newquote:hover{
+    font-family: cursive;
+    background-color: rgb(88, 37, 206);
+}
+
+#tweet{
+    
+    
+    /* margin-top: -150px;*/
+    display: flex
+    ;  
+    margin-top: -200px;
+    margin-left: 550px;  
+    
+}
+
+
+body{
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-color: rgb(74, 143, 162);
+}
+.btn
+{
+    background-color: rgb(148, 177, 193);
+    padding: 8px 15px;
+    border: 0ch;
+    border-radius: 0px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+.hoverdiv{
+    padding: 60px;
+    border: 2px solid rgb(29, 35, 137);
+    
+    background-color: rgba(33, 168, 195, 0.531);
+}
+.con{
+    
+    border-radius: 4px;
+    padding: 30px;
+    background-image: url(back2.jpg);
+    border: 2px solid rgb(29, 35, 137);
+    border-radius: 0px 50px;
+}
+
+
